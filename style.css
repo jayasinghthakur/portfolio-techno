@@ -1,0 +1,32 @@
+#title{
+    background-color:  #5F514E;
+}
+.one{
+    font-size:  ;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    font: disposable;
+}
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+footer{
+    background-color: #5F514E;
+}
+
+.d-block {
+    display: block!important;
+    border-radius: 50%;
+}
+.contact{
+    color: black;
+}
+.jss{
+    color: wheat;
+}
+.image{
+    height: 500px;
+    width: 500px;
+}
